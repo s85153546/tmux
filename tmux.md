@@ -86,3 +86,6 @@ window 就是下圖整個終端機畫面，一個 session 裡面可以有多個 
 ># window notifications; display activity on other window  
 >setw -g monitor-activity on  
 >set -g visual-activity on  
+
+# conf參考資料
+- [1](https://gist.github.com/ryerh/14b7c24dfd623ef8edc7)
