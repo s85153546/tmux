@@ -83,7 +83,7 @@ window 就是下圖整個終端機畫面，一個 session 裡面可以有多個 
 >set -g pane-base-index    1     # 窗格编号从 1 开始计数  
 >set -g renumber-windows   on    # 关掉某个窗口后，编号重排  
 >  
-># window notifications; display activity on other window  
+>#window notifications; display activity on other window  
 >setw -g monitor-activity on  
 >set -g visual-activity on  
 
